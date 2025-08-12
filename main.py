@@ -898,4 +898,4 @@ def get_status():
         
         if trading_bot.current_position:
             current_position = {
-                'type': trading_bot.current_position.position_type
+                'type': trading_bot.current_position.position_type}
