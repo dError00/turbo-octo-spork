@@ -1,6 +1,5 @@
 # turbo-octo-spork
 Kraken trading bot
-# 🚄 Kraken Trading Bot
 
 Automated cryptocurrency trading bot using custom strategy with:
 - RSI indicator
